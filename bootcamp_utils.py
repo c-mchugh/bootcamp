@@ -1,4 +1,4 @@
-
+import numpy as np
 
 # 1. Function to compute ECDF
 def ecdf(data):
