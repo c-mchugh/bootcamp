@@ -1,6 +1,6 @@
 import numpy as np
 
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 # 1. Function to compute ECDF
 def ecdf(data):
